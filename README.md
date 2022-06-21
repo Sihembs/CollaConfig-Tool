@@ -1,1 +1,3 @@
-# Tool
+Npm install
+
+Npm start
